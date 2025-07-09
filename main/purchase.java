@@ -1,4 +1,4 @@
-package compras;
+package purchases;
 
 // A classe Purchase representa uma compra, com descrição e valor,
 // e implementa a interface Comparable para permitir ordenação por valor.
